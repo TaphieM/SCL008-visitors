@@ -4,7 +4,7 @@
 
 Seguramente te ha ocurrido que vas con el tiempo justo para llegar a una cita de trabajo, pero oh sorpresa!, justo cuando creías lograrlo te encuentras con el último obstáculo: registrarse para poder entrar D:!, ves una fila de personas formadas para el registro y de repente quisieras que la recepcionista fuera una máquina súper rápida que aparte escribiera tu nombre y correo de la forma correcta.
 
-[PaseNoma'](https://fabytapia.github.io/SCL008-visitors/) es una aplicación desarrollada para tablets que facilitará tu registro y lo guardará de manera eficiente,. No solo será una ventaja para ti, sino también para la recepcionista que no es una máquina, pero que puede usar una para beneficiar su trabajo. 
+[PaseNoma'](https://fabytapia.github.io/SCL008-visitors/) es una aplicación desarrollada para tablets que facilitará tu registro y lo guardará de manera eficiente,. No solo será una ventaja para ti, sino también para la recepcionista que no es una máquina, pero que puede usar una para agilizar su trabajo. 
 
 ## Planificación 🚀
 
@@ -14,9 +14,9 @@ La planificación fue realizada en trello, la cual puedes revisar [aquí](https:
 
 Lo primero y esencial es conocer al usuario. Para ello se realizó una [entrevista](https://photos.app.goo.gl/poKEZtnMBKzwXvUJ8) en la que se pudo identificar las siguientes respuestas:
 
-- seria ideal tener una base de datos de todas las empresas,y encargados de recibir las visitas 
+- Seria ideal tener una base de datos de todas las empresas,y encargados de recibir las visitas 
 
-- si bien entre mas rápido sea la recepción de visitas mejor es el flujo, por lo que seria mas dinámico.
+- Si bien entre mas rápido sea la recepción de visitas mejor es el flujo, por lo que seria mas dinámico.
 
 - Uno de los principales problemas fue que no llevan control de salida de las visitas, por lo que si hacen mejoras digitales de recepción seria un buen punto para solucionar. 
 
